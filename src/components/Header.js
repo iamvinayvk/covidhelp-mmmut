@@ -75,7 +75,7 @@ function Header() {
           </div>
           <div class="cell auto small text-right menu-control hide-for-medium">
             <label for="main-menu-control" class="button secondary hollow">
-              <i class="fa fa-bars"></i> Menu
+              <i class="fas fa-bars"></i> Menu
             </label>
           </div>
         </div>
