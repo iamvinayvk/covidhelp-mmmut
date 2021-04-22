@@ -305,8 +305,6 @@ input.input100 {
 }
 
 .alert-validate::after {
-  content: "\f12a";
-
   display: block;
   position: absolute;
   color: #c80000;
@@ -320,7 +318,7 @@ input.input100 {
   right: 8px;
 }
 
-.alert-validate:hover:before {
+.alert-validate::before {
   visibility: visible;
   opacity: 1;
 }
