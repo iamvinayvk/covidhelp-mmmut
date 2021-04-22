@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covidhelp-mmmut/static/css/main.5abd74d2.chunk.css",
+    "main.css": "/covidhelp-mmmut/static/css/main.2b83147b.chunk.css",
     "main.js": "/covidhelp-mmmut/static/js/main.8a6b2f07.chunk.js",
     "main.js.map": "/covidhelp-mmmut/static/js/main.8a6b2f07.chunk.js.map",
     "runtime-main.js": "/covidhelp-mmmut/static/js/runtime-main.59d69966.js",
@@ -8,7 +8,7 @@
     "static/js/2.3bda90c3.chunk.js": "/covidhelp-mmmut/static/js/2.3bda90c3.chunk.js",
     "static/js/2.3bda90c3.chunk.js.map": "/covidhelp-mmmut/static/js/2.3bda90c3.chunk.js.map",
     "index.html": "/covidhelp-mmmut/index.html",
-    "static/css/main.5abd74d2.chunk.css.map": "/covidhelp-mmmut/static/css/main.5abd74d2.chunk.css.map",
+    "static/css/main.2b83147b.chunk.css.map": "/covidhelp-mmmut/static/css/main.2b83147b.chunk.css.map",
     "static/js/2.3bda90c3.chunk.js.LICENSE.txt": "/covidhelp-mmmut/static/js/2.3bda90c3.chunk.js.LICENSE.txt",
     "static/media/img2.3c7323e6.webp": "/covidhelp-mmmut/static/media/img2.3c7323e6.webp",
     "static/media/img3.5f1c860e.webp": "/covidhelp-mmmut/static/media/img3.5f1c860e.webp",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59d69966.js",
     "static/js/2.3bda90c3.chunk.js",
-    "static/css/main.5abd74d2.chunk.css",
+    "static/css/main.2b83147b.chunk.css",
     "static/js/main.8a6b2f07.chunk.js"
   ]
 }
