@@ -121,6 +121,22 @@ function Main() {
                   <h3>Mental Help</h3>
                 </div>
               </Link>
+              <Link
+                to="/mentalhelp"
+                target=""
+                title="Antigen Detection Test Centers for COVID-19"
+                class="cell card"
+              >
+                <div
+                  class="image"
+                  style={{
+                    backgroundImage: `url(${img5})`,
+                  }}
+                ></div>
+                <div class="card-section">
+                  <h3>Covid Resources</h3>
+                </div>
+              </Link>
             </div>
           </div>
         </div>

@@ -32,6 +32,9 @@ function Footer() {
                   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5073">
                     <Link to="/mentalhelp">Mental Help</Link>
                   </li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5073">
+                    <Link to="/importantlinks">Covid Resources</Link>
+                  </li>
                 </ul>
               </div>{" "}
               <hr />

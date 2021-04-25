@@ -12,6 +12,7 @@ import RequestPlasma from "./components/RequestPlasma";
 import RequestBed from "./components/RequestBed";
 import RequestOxygen from "./components/RequestOxygen";
 import MentalHelp from "./components/MentalHelp";
+import ImportantLinks from "./components/ImportantLinks";
 
 function App() {
   const { pathname } = useLocation();
@@ -25,6 +26,9 @@ function App() {
       <Switch>
         <Route exact path="/donateplasma">
           <DonatePlasma />
+        </Route>
+        <Route exact path="/importantlinks">
+          <ImportantLinks />
         </Route>
         <Route exact path="/requestplasma">
           <RequestPlasma />

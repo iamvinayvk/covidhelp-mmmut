@@ -70,6 +70,12 @@ function Header() {
                 >
                   <NavLink to="/mentalhelp"> Mental Help</NavLink>
                 </li>
+                <li
+                  id="menu-item-5160"
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5160"
+                >
+                  <NavLink to="/importantlinks"> Covid Resources</NavLink>
+                </li>
               </ul>
             </div>{" "}
           </div>
