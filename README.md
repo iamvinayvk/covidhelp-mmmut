@@ -1,5 +1,5 @@
 ## Demo Version-
-# http://iamvinayvk.github.io/covidhelp-mmmut
+http://iamvinayvk.github.io/covidhelp-mmmut
 
 ## Production Version
-# http://covidhelp-mmmut.herokuapp.com/
+http://covidhelp-mmmut.herokuapp.com/
